@@ -25,6 +25,13 @@ export default function Layout() {
           >
             GitHub
           </a>
+          <a
+            href="https://github.com/Kast69ro/work-redux-zustand"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Documentation
+          </a>
         </div>
         <p>© 2025 My React App . Using React, Redux & Zustand .</p>
         <p>made by kastro</p>
